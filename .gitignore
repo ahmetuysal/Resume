@@ -238,5 +238,11 @@ TSWLatexianTemp*
 # standalone packages
 *.sta
 
+# Mac OS X metadata files:
+
+*.DS_Store
+
+
+
 # generated if using elsarticle.cls
 *.spl
