@@ -2,7 +2,7 @@
 
 ## Preview
 
-You can also see [PDF](https://raw.githubusercontent.com/ahmetuysal/Resume/master/resume.pdf)
+You can also [see](https://github.com/ahmetuysal/Resume/blob/master/resume.pdf) or [download](https://raw.githubusercontent.com/ahmetuysal/Resume/master/resume.pdf) the PDF version.
 
 ![My Resume in Image Format](./resume_image.jpg)  
 
