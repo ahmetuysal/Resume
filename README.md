@@ -4,8 +4,7 @@
 
 You can also [see](https://github.com/ahmetuysal/Resume/blob/master/resume.pdf) or [download](https://raw.githubusercontent.com/ahmetuysal/Resume/master/resume.pdf) the PDF version.
 
-![My Resume in Image Format](./resume_image.jpg)  
-
+![My Resume in Image Format](./resume_image.png)
 
 ## Credit
 
@@ -18,4 +17,3 @@ You can also [see](https://github.com/ahmetuysal/Resume/blob/master/resume.pdf) 
 [**Roboto**](https://github.com/google/roboto) is the default font on Android and ChromeOS, and the recommended font for Google’s visual language, Material Design.
 
 [**Source Sans Pro**](https://github.com/adobe-fonts/source-sans-pro) is a set of OpenType fonts that have been designed to work well in user interface (UI) environments.
-
